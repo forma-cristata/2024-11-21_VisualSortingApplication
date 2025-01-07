@@ -21,7 +21,7 @@ This project is a visual demonstration of various sorting algorithms implemented
 - Algorithm complexity information (Best, Average, and Worst case)
 - Ability to cancel sorting operations mid-process
 
-## Technical Implementation
+## Implementation
 
 The project is structured around the ISortable interface, which each sorting algorithm implements. Key technical features include:
 
